@@ -26,7 +26,7 @@
  - shorturl.at/kpFY9
  
 ## Test Case
- - to be uploaded
+ - https://docs.google.com/spreadsheets/d/1o2IP0KODMNAggzafP_KbSCDoolQYD5y5/edit?usp=sharing&ouid=103638315679092257462&rtpof=true&sd=true
  
 ## Output(Newman)
  - ![screencapture-file-C-Users-Suborno-Chowdhury-Desktop-QA-Projects-API-testing-Digital-Financial-Service-reports-report-html-2022-10-19-17_25_11](https://user-images.githubusercontent.com/44720321/196681148-d307bc49-5b29-4406-9166-9bbad60a6ce1.png)
